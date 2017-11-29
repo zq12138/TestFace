@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\as\MegviiIDCardv2_Android_0.3.0\MegviiIDCard-Android-0.3.0\idcard\demo\TestFace\FaceppIDCardUI\src\main\assets"/><source path="E:\as\MegviiIDCardv2_Android_0.3.0\MegviiIDCard-Android-0.3.0\idcard\demo\TestFace\FaceppIDCardUI\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\as\MegviiIDCardv2_Android_0.3.0\MegviiIDCard-Android-0.3.0\idcard\demo\TestFace\FaceppIDCardUI\src\debug\assets"/></dataSet></merger>

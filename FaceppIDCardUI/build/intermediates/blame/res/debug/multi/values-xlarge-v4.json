@@ -1,0 +1,121 @@
+[
+    {
+        "outputFile": "E:\\as\\MegviiIDCardv2_Android_0.3.0\\MegviiIDCard-Android-0.3.0\\idcard\\demo\\TestFace\\FaceppIDCardUI\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-v4\\values-xlarge-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 70,
+                    "endOffset": 121
+                },
+                "from": {
+                    "file": "C:\\Users\\14537\\.android\\build-cache\\4a055d9706bc08676bdf37a9707d7c4da4572aae\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 70,
+                        "endOffset": 121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 126,
+                    "endColumn": 70,
+                    "endOffset": 192
+                },
+                "from": {
+                    "file": "C:\\Users\\14537\\.android\\build-cache\\4a055d9706bc08676bdf37a9707d7c4da4572aae\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 126,
+                        "endColumn": 70,
+                        "endOffset": 192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 197,
+                    "endColumn": 69,
+                    "endOffset": 262
+                },
+                "from": {
+                    "file": "C:\\Users\\14537\\.android\\build-cache\\4a055d9706bc08676bdf37a9707d7c4da4572aae\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 197,
+                        "endColumn": 69,
+                        "endOffset": 262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 267,
+                    "endColumn": 69,
+                    "endOffset": 332
+                },
+                "from": {
+                    "file": "C:\\Users\\14537\\.android\\build-cache\\4a055d9706bc08676bdf37a9707d7c4da4572aae\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 267,
+                        "endColumn": 69,
+                        "endOffset": 332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 337,
+                    "endColumn": 67,
+                    "endOffset": 400
+                },
+                "from": {
+                    "file": "C:\\Users\\14537\\.android\\build-cache\\4a055d9706bc08676bdf37a9707d7c4da4572aae\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 337,
+                        "endColumn": 67,
+                        "endOffset": 400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 405,
+                    "endColumn": 67,
+                    "endOffset": 468
+                },
+                "from": {
+                    "file": "C:\\Users\\14537\\.android\\build-cache\\4a055d9706bc08676bdf37a9707d7c4da4572aae\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 405,
+                        "endColumn": 67,
+                        "endOffset": 468
+                    }
+                }
+            }
+        ]
+    }
+]

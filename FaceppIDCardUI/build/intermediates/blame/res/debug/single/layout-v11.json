@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\as\\MegviiIDCardv2_Android_0.3.0\\MegviiIDCard-Android-0.3.0\\idcard\\demo\\TestFace\\FaceppIDCardUI\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\14537\\.android\\build-cache\\4a055d9706bc08676bdf37a9707d7c4da4572aae\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\as\\MegviiIDCardv2_Android_0.3.0\\MegviiIDCard-Android-0.3.0\\idcard\\demo\\TestFace\\FaceppIDCardUI\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\14537\\.android\\build-cache\\4a055d9706bc08676bdf37a9707d7c4da4572aae\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\as\\MegviiIDCardv2_Android_0.3.0\\MegviiIDCard-Android-0.3.0\\idcard\\demo\\TestFace\\FaceppIDCardUI\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\14537\\.android\\build-cache\\4a055d9706bc08676bdf37a9707d7c4da4572aae\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\as\\MegviiIDCardv2_Android_0.3.0\\MegviiIDCard-Android-0.3.0\\idcard\\demo\\TestFace\\FaceppIDCardUI\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\14537\\.android\\build-cache\\4a055d9706bc08676bdf37a9707d7c4da4572aae\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "E:\\as\\MegviiIDCardv2_Android_0.3.0\\MegviiIDCard-Android-0.3.0\\idcard\\demo\\TestFace\\FaceppIDCardUI\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\14537\\.android\\build-cache\\4a055d9706bc08676bdf37a9707d7c4da4572aae\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "E:\\as\\MegviiIDCardv2_Android_0.3.0\\MegviiIDCard-Android-0.3.0\\idcard\\demo\\TestFace\\FaceppIDCardUI\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\14537\\.android\\build-cache\\4a055d9706bc08676bdf37a9707d7c4da4572aae\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    }
+]

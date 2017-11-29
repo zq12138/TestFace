@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "E:\\as\\MegviiIDCardv2_Android_0.3.0\\MegviiIDCard-Android-0.3.0\\idcard\\demo\\TestFace\\FaceppIDCardUI\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 13,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "C:\\Users\\14537\\.android\\build-cache\\4a055d9706bc08676bdf37a9707d7c4da4572aae\\output\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 13,
+                        "endOffset": 327
+                    }
+                }
+            }
+        ]
+    }
+]
